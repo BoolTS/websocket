@@ -147,3 +147,4 @@ Thumbs.db
 .env.docker-swarm
 # Local env files for Docker Kubernetes
 .env.docker-kubernetes
+.npmrc

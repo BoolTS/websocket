@@ -1,1 +1,1 @@
-export { SocketClient } from "./client";
+export { SocketClient } from "./client/providers/socketClient";
